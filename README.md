@@ -1,11 +1,16 @@
-### Hi there 👋. Welcome to my GitHub profile.
+# Hi there 👋. Welcome to my GitHub profile.
 
-🔗 [A little about me 😉](https://github.com/Chukwuamaka/chukwuamaka/blob/7145ba3662bf7be5386c85ec6d37425f49c85678/README.md#L11) <br/>
-🔗 [Tech Stacks 💻](https://github.com/Chukwuamaka/chukwuamaka/blob/7145ba3662bf7be5386c85ec6d37425f49c85678/README.md#L19) </br>
-🔗 [Some of my cool projects 👨‍💻](https://github.com/Chukwuamaka/chukwuamaka/blob/7145ba3662bf7be5386c85ec6d37425f49c85678/README.md#L32) <br/>
-🔗 [Hobbies & Interests](https://github.com/Chukwuamaka/chukwuamaka/blob/7145ba3662bf7be5386c85ec6d37425f49c85678/README.md#L44) <br/>
-🔗 [Socials 🌐](https://github.com/Chukwuamaka/chukwuamaka/blob/7145ba3662bf7be5386c85ec6d37425f49c85678/README.md#L56) <br/>
-🔗 [My GitHub Stats 📊](https://github.com/Chukwuamaka/chukwuamaka/blob/7145ba3662bf7be5386c85ec6d37425f49c85678/README.md#L61)
+🔗 [A little about me 😉](https://github.com/Chukwuamaka#a-little-about-me-)
+
+🔗 [Tech Stacks 💻](https://github.com/Chukwuamaka#tech-stacks-)
+
+🔗 [Some of my cool projects 👨‍💻](https://github.com/Chukwuamaka#some-of-my-cool-projects-)
+
+🔗 [Hobbies & Interests](https://github.com/Chukwuamaka#hobbies--interests)
+
+🔗 [Socials 🌐](https://github.com/Chukwuamaka#socials-)
+
+🔗 [My GitHub Stats 📊](https://github.com/Chukwuamaka#my-github-stats-)
 
 
 ## A little about me 😉
@@ -38,7 +43,7 @@ Explore some of the cool projects that I have contributed to.
 - A weather forecast application ([View code](https://github.com/Chukwuamaka/weatherly), [View demo](https://weatherly-taupe.vercel.app/)).
 - A miniature electronic voting application ([View code](https://github.com/Chukwuamaka/ballotpal)). Demo is currently unavailable.
 
-If you would like to read about my professional history, you can check it out on [my LinkedIn profile](https://linkedin.com/in/chukwuamakaosuji/).
+If you would like to read about my professional history, you can check out [my LinkedIn profile](https://linkedin.com/in/chukwuamakaosuji/).
 
 
 ## Hobbies & Interests
@@ -60,5 +65,5 @@ I'm still on a journey of self-discovery so this list isn't exhaustive.
 
 ## My GitHub Stats 📊
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chukwuamaka&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chukwuamaka&theme=dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwuamaka&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
